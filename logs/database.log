@@ -1,0 +1,669 @@
+2025-07-31 06:25:32 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:25:32 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:25:32 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:25:32 - database - INFO - Database backup created: backups/users_backup_20250731_062532.db
+2025-07-31 06:25:32 - database - INFO - Old backup removed: users_backup_20250731_053518.db
+2025-07-31 06:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:30:41 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:30:41 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:30:41 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:30:41 - database - INFO - Database backup created: backups/users_backup_20250731_063041.db
+2025-07-31 06:30:41 - database - INFO - Old backup removed: users_backup_20250731_053617.db
+2025-07-31 06:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:33:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:33:25 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:33:25 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:33:25 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:33:25 - database - INFO - Database backup created: backups/users_backup_20250731_063325.db
+2025-07-31 06:33:25 - database - INFO - Old backup removed: users_backup_20250731_054649.db
+2025-07-31 06:34:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:34:05 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:34:05 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:34:05 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:34:05 - database - INFO - Database backup created: backups/users_backup_20250731_063405.db
+2025-07-31 06:34:05 - database - INFO - Old backup removed: users_backup_20250731_054706.db
+2025-07-31 06:35:10 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:35:10 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:35:10 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:35:10 - database - INFO - Database backup created: backups/users_backup_20250731_063510.db
+2025-07-31 06:35:10 - database - INFO - Old backup removed: users_backup_20250731_054723.db
+2025-07-31 06:36:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:36:16 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:36:16 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:36:16 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:36:16 - database - INFO - Database backup created: backups/users_backup_20250731_063616.db
+2025-07-31 06:36:16 - database - INFO - Old backup removed: users_backup_20250731_054754.db
+2025-07-31 06:36:55 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:36:55 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:37:19 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:37:19 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:38:41 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:38:41 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:39:11 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:39:12 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:39:50 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:39:50 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:41:00 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:41:00 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:41:29 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:41:29 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:48:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:49:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:50:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:51:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:51:17 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 06:51:17 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 06:51:17 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 06:51:17 - database - INFO - Database backup created: backups/users_backup_20250731_065117.db
+2025-07-31 06:51:17 - database - INFO - Old backup removed: users_backup_20250731_055004.db
+2025-07-31 06:51:26 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:51:27 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:51:56 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:51:57 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:52:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:52:22 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:52:22 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:52:38 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:52:38 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:53:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:53:01 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:53:02 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:53:17 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:53:17 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:53:34 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:53:34 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:54:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:54:44 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:54:44 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:55:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:55:00 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:55:01 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:55:17 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:55:17 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:55:45 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:55:45 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:56:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:57:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:57:21 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:57:21 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:57:40 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:57:40 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:58:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:58:13 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:58:13 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 06:59:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 06:59:24 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 06:59:25 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 07:00:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:00:05 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:00:05 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:00:05 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:00:05 - database - INFO - Database backup created: backups/users_backup_20250731_070005.db
+2025-07-31 07:00:05 - database - INFO - Old backup removed: users_backup_20250731_062532.db
+2025-07-31 07:01:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:02:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:03:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:03:19 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:03:19 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:03:19 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:03:19 - database - INFO - Database backup created: backups/users_backup_20250731_070319.db
+2025-07-31 07:03:19 - database - INFO - Old backup removed: users_backup_20250731_063041.db
+2025-07-31 07:03:39 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=75, style_name=custom
+2025-07-31 07:03:40 - database - INFO - Статус задачи видео обновлён: task_id=75, status=failed
+2025-07-31 07:03:40 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 07:04:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:04:53 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:04:53 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:04:53 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:04:53 - database - INFO - Database backup created: backups/users_backup_20250731_070453.db
+2025-07-31 07:04:53 - database - INFO - Old backup removed: users_backup_20250731_063325.db
+2025-07-31 07:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:05:13 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=76, style_name=custom
+2025-07-31 07:05:14 - database - INFO - Статус задачи видео обновлён: task_id=76, status=failed
+2025-07-31 07:05:14 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 07:05:59 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:05:59 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:05:59 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:05:59 - database - INFO - Database backup created: backups/users_backup_20250731_070559.db
+2025-07-31 07:05:59 - database - INFO - Old backup removed: users_backup_20250731_063405.db
+2025-07-31 07:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:06:20 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=77, style_name=custom
+2025-07-31 07:06:21 - database - INFO - Статус задачи видео обновлён: task_id=77, status=failed
+2025-07-31 07:06:21 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 07:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:11:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:12:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:12:09 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:12:09 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:12:09 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:12:09 - database - INFO - Database backup created: backups/users_backup_20250731_071209.db
+2025-07-31 07:12:09 - database - INFO - Old backup removed: users_backup_20250731_063510.db
+2025-07-31 07:12:27 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=78, style_name=custom
+2025-07-31 07:12:29 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 07:12:29 - database - INFO - Статус задачи видео обновлён: task_id=78, status=processing
+2025-07-31 07:13:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:14:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:15:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:15:32 - database - INFO - Статус задачи видео обновлён: task_id=78, status=completed
+2025-07-31 07:15:32 - database - INFO - Генерация записана: user_id=5667999089, type=ai_video_v2_1, model=kwaivgi/kling-v2.1, units=1, cost_pu=0.014000, total_cost=0.014000
+2025-07-31 07:16:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:18:35 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:18:35 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:18:35 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:18:35 - database - INFO - Database backup created: backups/users_backup_20250731_071835.db
+2025-07-31 07:18:35 - database - INFO - Old backup removed: users_backup_20250731_063616.db
+2025-07-31 07:18:53 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=79, style_name=custom
+2025-07-31 07:18:55 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 07:18:55 - database - INFO - Статус задачи видео обновлён: task_id=79, status=processing
+2025-07-31 07:19:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:20:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:21:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:21:27 - database - INFO - Статус задачи видео обновлён: task_id=79, status=completed
+2025-07-31 07:21:27 - database - INFO - Генерация записана: user_id=5667999089, type=ai_video_v2_1, model=kwaivgi/kling-v2.1, units=1, cost_pu=0.014000, total_cost=0.014000
+2025-07-31 07:22:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:23:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:25:27 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:25:27 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:25:27 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:25:27 - database - INFO - Database backup created: backups/users_backup_20250731_072527.db
+2025-07-31 07:25:27 - database - INFO - Old backup removed: users_backup_20250731_065117.db
+2025-07-31 07:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:26:06 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=80, style_name=custom
+2025-07-31 07:26:08 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 07:26:08 - database - INFO - Статус задачи видео обновлён: task_id=80, status=processing
+2025-07-31 07:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:29:12 - database - INFO - Статус задачи видео обновлён: task_id=80, status=completed
+2025-07-31 07:29:12 - database - INFO - Генерация записана: user_id=5667999089, type=ai_video_v2_1, model=kwaivgi/kling-v2.1, units=1, cost_pu=0.014000, total_cost=0.014000
+2025-07-31 07:30:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:30:11 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 07:30:11 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 07:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:33:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:34:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:35:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:36:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:36:50 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:36:50 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:36:50 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:36:50 - database - INFO - Database backup created: backups/users_backup_20250731_073650.db
+2025-07-31 07:36:50 - database - INFO - Old backup removed: users_backup_20250731_070005.db
+2025-07-31 07:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:37:07 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 07:37:08 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 07:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:40:39 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:40:39 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:40:39 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:40:39 - database - INFO - Database backup created: backups/users_backup_20250731_074039.db
+2025-07-31 07:40:39 - database - INFO - Old backup removed: users_backup_20250731_070319.db
+2025-07-31 07:40:47 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 07:40:47 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 07:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:43:35 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:43:35 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:43:35 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:43:35 - database - INFO - Database backup created: backups/users_backup_20250731_074335.db
+2025-07-31 07:43:35 - database - INFO - Old backup removed: users_backup_20250731_070453.db
+2025-07-31 07:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:45:37 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:45:37 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:45:37 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:45:37 - database - INFO - Database backup created: backups/users_backup_20250731_074537.db
+2025-07-31 07:45:37 - database - INFO - Old backup removed: users_backup_20250731_070559.db
+2025-07-31 07:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:48:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:49:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:50:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:51:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:52:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:53:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:53:59 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:53:59 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:53:59 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:53:59 - database - INFO - Database backup created: backups/users_backup_20250731_075359.db
+2025-07-31 07:53:59 - database - INFO - Old backup removed: users_backup_20250731_071209.db
+2025-07-31 07:54:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:54:20 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 07:54:20 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:bbfe5064c4e989eb74f0ba5aedf3b24aaed02cb8b9244c676075ddbf55fd3d2e, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 07:55:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:56:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:57:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:58:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:59:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 07:59:39 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 07:59:39 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 07:59:39 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 07:59:39 - database - INFO - Database backup created: backups/users_backup_20250731_075939.db
+2025-07-31 07:59:39 - database - INFO - Old backup removed: users_backup_20250731_071835.db
+2025-07-31 08:00:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:01:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:02:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:03:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:04:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:05:35 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 08:05:35 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 08:05:35 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 08:05:35 - database - INFO - Database backup created: backups/users_backup_20250731_080535.db
+2025-07-31 08:05:35 - database - INFO - Old backup removed: users_backup_20250731_072527.db
+2025-07-31 08:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:11:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:12:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:13:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:14:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:15:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:16:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:17:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:18:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:19:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:19:43 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 08:19:43 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 08:19:43 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 08:19:43 - database - INFO - Database backup created: backups/users_backup_20250731_081943.db
+2025-07-31 08:19:43 - database - INFO - Old backup removed: users_backup_20250731_073650.db
+2025-07-31 08:20:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:20:13 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=81, style_name=custom
+2025-07-31 08:20:14 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 08:20:15 - database - INFO - Статус задачи видео обновлён: task_id=81, status=failed
+2025-07-31 08:20:15 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 08:21:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:22:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:23:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:24:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:25:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:28:25 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 08:28:25 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 08:28:25 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 08:28:25 - database - INFO - Database backup created: backups/users_backup_20250731_082825.db
+2025-07-31 08:28:25 - database - INFO - Old backup removed: users_backup_20250731_074039.db
+2025-07-31 08:28:46 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=82, style_name=custom
+2025-07-31 08:28:46 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 08:28:47 - database - INFO - Статус задачи видео обновлён: task_id=82, status=failed
+2025-07-31 08:28:47 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 08:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:30:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:31:55 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 08:31:55 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 08:31:55 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 08:31:55 - database - INFO - Database backup created: backups/users_backup_20250731_083155.db
+2025-07-31 08:31:55 - database - INFO - Old backup removed: users_backup_20250731_074335.db
+2025-07-31 08:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:32:14 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=83, style_name=custom
+2025-07-31 08:32:14 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 08:32:15 - database - INFO - Статус задачи видео обновлён: task_id=83, status=failed
+2025-07-31 08:32:15 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=increment_photo, amount/value=20
+2025-07-31 08:36:28 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 08:36:28 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 08:36:28 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 08:36:28 - database - INFO - Database backup created: backups/users_backup_20250731_083628.db
+2025-07-31 08:36:28 - database - INFO - Old backup removed: users_backup_20250731_074537.db
+2025-07-31 08:36:50 - database - INFO - Видео-задача сохранена: user_id=5667999089, task_id=84, style_name=custom
+2025-07-31 08:36:52 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=20
+2025-07-31 08:36:53 - database - INFO - Статус задачи видео обновлён: task_id=84, status=processing
+2025-07-31 08:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:39:57 - database - INFO - Статус задачи видео обновлён: task_id=84, status=completed
+2025-07-31 08:39:57 - database - INFO - Генерация записана: user_id=5667999089, type=ai_video_v2_1, model=kwaivgi/kling-v2.1, units=1, cost_pu=0.014000, total_cost=0.014000
+2025-07-31 08:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:40:06 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_avatar, amount/value=1
+2025-07-31 08:40:09 - database - INFO - Обучаемая модель сохранена для user_id=5667999089, avatar_id=49, prediction_id=jxv2dynx7xrma0crbvz8zcfbcm
+2025-07-31 08:40:09 - database - INFO - Статус/данные модели обновлены для avatar_id=49
+2025-07-31 08:40:09 - database - INFO - Генерация записана: user_id=5667999089, type=train_flux, model=replicate/fast-flux-trainer:8b10794665aed907bb98a1a5324cd1d3a8bea0e9b31e65210967fb9c9e2e08ed, units=1, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 08:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:45:10 - database - WARNING - Исправление model_version: axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93 -> 7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93
+2025-07-31 08:45:10 - database - INFO - Статус/данные модели обновлены для avatar_id=49
+2025-07-31 08:45:10 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_trained_model, amount/value=1
+2025-07-31 08:45:10 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_active_avatar, amount/value=49
+2025-07-31 08:45:26 - database - WARNING - Исправление model_version: axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93 -> 7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93
+2025-07-31 08:45:26 - database - INFO - Статус/данные модели обновлены для avatar_id=49
+2025-07-31 08:45:26 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_trained_model, amount/value=1
+2025-07-31 08:45:26 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_active_avatar, amount/value=49
+2025-07-31 08:45:45 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 08:45:45 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 08:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 08:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:04:56 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 20:04:56 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 20:04:56 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 20:04:56 - database - INFO - Database backup created: backups/users_backup_20250731_200456.db
+2025-07-31 20:04:56 - database - INFO - Old backup removed: users_backup_20250731_075359.db
+2025-07-31 20:04:58 - database - INFO - Данные пользователя user_id=5667999089 обновлены (referrer_id не изменен: None).
+2025-07-31 20:04:59 - database - INFO - Приветственное сообщение отмечено как отправленное для user_id=1682255255
+2025-07-31 20:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:05:39 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_active_avatar, amount/value=42
+2025-07-31 20:05:43 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_active_avatar, amount/value=45
+2025-07-31 20:05:52 - database - INFO - Столбец total_reward_photos уже существует, миграция не требуется
+2025-07-31 20:05:52 - database - INFO - Индексы для referral_stats созданы или подтверждены
+2025-07-31 20:05:52 - database - INFO - База данных успешно инициализирована с индексами, триггерами и миграцией referrals
+2025-07-31 20:05:52 - database - INFO - Database backup created: backups/users_backup_20250731_200552.db
+2025-07-31 20:05:52 - database - INFO - Old backup removed: users_backup_20250731_075939.db
+2025-07-31 20:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:06:37 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 20:06:37 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:5e8b5aba290834dbeb42e66b832e0a1fd9390a3b273776abde38b4e6f5ee8fe3, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 20:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:11:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:12:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:13:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:14:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:15:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:16:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:17:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:18:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:19:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:20:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:21:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:22:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:23:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:24:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:25:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:30:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:33:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:34:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:35:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:36:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:48:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:49:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:50:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:51:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:52:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:53:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:54:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:55:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:56:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:57:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:58:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 20:59:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:00:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:01:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:02:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:03:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:04:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:11:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:12:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:13:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:14:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:15:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:16:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:17:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:18:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:19:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:20:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:21:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:22:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:23:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:24:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:25:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:30:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:33:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:34:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:35:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:36:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:48:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:49:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:50:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:51:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:52:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:53:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:54:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:55:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:56:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:57:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:58:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 21:59:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:00:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:01:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:02:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:03:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:04:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:11:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:12:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:13:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:14:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:15:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:16:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:17:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:18:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:19:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:20:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:21:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:22:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:23:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:24:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:25:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:26:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:27:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:28:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:29:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:30:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:31:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:32:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:33:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:34:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:35:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:36:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:37:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:38:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:39:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:40:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:41:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:42:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:43:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:44:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:45:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:46:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:47:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:48:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:49:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:50:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:51:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:52:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:53:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:54:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:55:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:56:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:57:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:58:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 22:59:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:00:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:01:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:02:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:03:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:04:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:05:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:06:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:07:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:07:32 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=set_active_avatar, amount/value=49
+2025-07-31 23:08:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:08:00 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 23:08:00 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 23:09:00 - database - INFO - Получено 0 запланированных рассылок
+2025-07-31 23:09:19 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 23:09:19 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 23:09:58 - database - INFO - Ресурсы обновлены для user_id=5667999089, action=decrement_photo, amount/value=2
+2025-07-31 23:09:58 - database - INFO - Генерация записана: user_id=5667999089, type=with_avatar, model=axidiagensy/fastnew:7ca6d833f6fd4e7e3f85fc0ef754ee0df54426247e34aed4f8cdf180f9d9ca93, units=2, cost_pu=0.000000, total_cost=0.000000
+2025-07-31 23:10:00 - database - INFO - Получено 0 запланированных рассылок
+2025-08-03 19:28:44 - database - INFO - ������� total_reward_photos �����������, ��������� ���
+2025-08-03 19:28:44 - database - ERROR - ������ ��� ���������� total_reward_photos: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
+2025-08-03 19:28:44 - database - ERROR - ����������� ������ �������� ������� referral_stats: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
+2025-08-03 19:28:44 - database - ERROR - ������ ������������� ���� ������: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 135, in init_db
+    await migrate_referral_stats_table(bot)
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
+2025-08-03 19:29:54 - database - INFO - ������� total_reward_photos �����������, ��������� ���
+2025-08-03 19:29:54 - database - ERROR - ������ ��� ���������� total_reward_photos: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
+2025-08-03 19:29:54 - database - ERROR - ����������� ������ �������� ������� referral_stats: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
+2025-08-03 19:29:54 - database - ERROR - ������ ������������� ���� ������: no such table: referral_stats
+Traceback (most recent call last):
+  File "D:\vsProjects\pooochtirelis\database.py", line 135, in init_db
+    await migrate_referral_stats_table(bot)
+  File "D:\vsProjects\pooochtirelis\database.py", line 98, in migrate_referral_stats_table
+    await c.execute("ALTER TABLE referral_stats ADD COLUMN total_reward_photos INTEGER DEFAULT 0")
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\vsProjects\pooochtirelis\venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such table: referral_stats
